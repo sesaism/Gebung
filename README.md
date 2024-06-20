@@ -26,7 +26,8 @@ Moving Average is a statistical technique employed to smooth data fluctuations a
 <img src="https://github.com/xryar/Gebung-Doc/blob/main/ProjectArchitect.png">
 
 # Other Repository
-1. Mobile Development : [Gebung-MD](https://github.com/xryar/Gebung)
-2. Gebung Document    : [Gebung](https://github.com/xryar/Gebung-Doc)
+1. Gebung Document    : [Gebung](https://github.com/xryar/Gebung-Doc)
+2. Mobile Development : [Gebung-MD](https://github.com/xryar/Gebung)
+2. Cloud Computing    : [Gebung-CC](https://github.com/utyy03/Gebung-Api)
 
 *© Bangkit Academy 2024 | Product Capstone*
