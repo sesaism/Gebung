@@ -1,10 +1,12 @@
-# Gebung: Time Series Forecasting using Moving Average Algorithm
+# Time Series Forecasting using Moving Average Algorithm
 Gebung, or Gemar Menabung, is a personal finance management application designed to empower users in effectively managing their financial resources. With a variety of features, the application enables users to effortlessly record expenses, maintain transaction logs, receive timely notifications as they approach preset spending limits, and benefit from accurate expenditure predictions based on their past spending patterns.
 
 Gebung consists a model that estimates expense predictions using the user's personal spending budget. This model utilizes a moving average to provide precise forecasts, helping users better plan and control their finances.
 
 ## Model Overview
 Through the input transaction data provided by the user, our model performs data cleaning and Explanatory Data Analysis for filtering purposes. Subsequently, the model segregates income and expenses to aggregate all data by month and predicts expenses for the next month using the Moving Average method.
+
+<img src="https://github.com/sesaism/Gebung/blob/main/Result graph.png">
 
 Moving Average is a statistical technique employed to smooth data fluctuations and discern underlying trends over time. It computes the average of a defined subset of data points over a fixed window or period, widely applied in time series analysis for forecasting and pattern recognition. Using this formula, the model provides continuous predictions.
 
@@ -24,7 +26,7 @@ Moving Average is a statistical technique employed to smooth data fluctuations a
 <img src="https://github.com/xryar/Gebung-Doc/blob/main/ProjectArchitect.png">
 
 # Other Repository
-Mobile Development : [Gebung-MD](https://github.com/xryar/Gebung)
-
+1. Mobile Development : [Gebung-MD](https://github.com/xryar/Gebung)
+2. Gebung Document    : [Gebung](https://github.com/xryar/Gebung-Doc)
 
 *© Bangkit Academy 2024 | Product Capstone*
